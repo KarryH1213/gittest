@@ -1,7 +1,7 @@
 # gittest
 a demo to practice how to use git
 
-##trying to update something
+## trying to update something
 
 one more try!
 
@@ -20,12 +20,14 @@ now i'm back in branch main
     "git reflog"#用于记录每一次的命令，暂时没用到
 
 小结附上一张图（摘自liaoxuefeng官网）：
+![](https://github.com/KarryH1213/gittest/blob/main/1.jpg)
 ![](1.jpg)
 
 
-##工作区和暂存区
+## 工作区和暂存区
 先附上一张图
 ![](2.jpg)
+![](https://github.com/KarryH1213/gittest/blob/main/2.jpg)
 
     "git status"#查看当前状态
 
@@ -33,14 +35,14 @@ now i'm back in branch main
 
 提交后没做修改再看status那工作区就是干净的
 
-##管理修改
+## 管理修改
 
 <font color=#FF0000>**一句话核心：Git管理的是修改，而不是文件本身**</font>
 
 要记录修改的话一定要add暂存，暂存后才能提交
 
 
-##撤销修改
+## 撤销修改
 
 <font color=blue>尝试换个颜色</font>
 
@@ -54,6 +56,7 @@ now i'm back in branch main
     
 小结附图：
 ![](3.jpg)
+![](https://github.com/KarryH1213/gittest/blob/main/3.jpg)
 
 先分割一下
 
