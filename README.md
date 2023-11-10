@@ -1,7 +1,7 @@
 # gittest
 a demo to practice how to use git
 
-##trying to update something
+## trying to update something
 
 one more try!
 
@@ -23,7 +23,7 @@ now i'm back in branch main
 ![](1.jpg)
 
 
-##工作区和暂存区
+## 工作区和暂存区
 先附上一张图
 ![](2.jpg)
 
@@ -33,14 +33,14 @@ now i'm back in branch main
 
 提交后没做修改再看status那工作区就是干净的
 
-##管理修改
+## 管理修改
 
 <font color=#FF0000>**一句话核心：Git管理的是修改，而不是文件本身**</font>
 
 要记录修改的话一定要add暂存，暂存后才能提交
 
 
-##撤销修改
+## 撤销修改
 
 <font color=blue>尝试换个颜色</font>
 
