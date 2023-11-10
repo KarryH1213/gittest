@@ -20,14 +20,13 @@ now i'm back in branch main
     "git reflog"#用于记录每一次的命令，暂时没用到
 
 小结附上一张图（摘自liaoxuefeng官网）：
-![](https://github.com/KarryH1213/gittest/blob/main/1.jpg)
 ![](1.jpg)
 
 
 ## 工作区和暂存区
 先附上一张图
 ![](2.jpg)
-![](https://github.com/KarryH1213/gittest/blob/main/2.jpg)
+
 
     "git status"#查看当前状态
 
@@ -56,7 +55,6 @@ now i'm back in branch main
     
 小结附图：
 ![](3.jpg)
-![](https://github.com/KarryH1213/gittest/blob/main/3.jpg)
 
 先分割一下
 

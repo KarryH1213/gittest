@@ -16,7 +16,11 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+<<<<<<< Updated upstream
               <first_editor relative-caret-position="176">
+=======
+              <first_editor relative-caret-position="227">
+>>>>>>> Stashed changes
                 <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               </first_editor>
               <second_editor />
@@ -119,7 +123,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="3545000" />
+=======
+    <option name="totallyTimeSpent" value="3290000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -132,7 +140,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25737265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -212,7 +219,11 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< Updated upstream
           <first_editor relative-caret-position="176">
+=======
+          <first_editor relative-caret-position="227">
+>>>>>>> Stashed changes
             <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           </first_editor>
           <second_editor />
