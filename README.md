@@ -111,4 +111,4 @@ now i'm back in branch main
 简单来说，分支发生冲突时需要手动解决，我感觉挺复杂的，不大想实操
 不过浅浅试一下吧还是
 
-this is a test on confliction
+![](6.jpg)
