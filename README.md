@@ -84,4 +84,29 @@ now i'm back in branch main
 然后就是 push clone这些操作
 其实还行
 
-# 分支管理
+## 分支管理
+
+    git branch#列出当前所有的分支
+    git checkout branchname#切换到分支 名字前面加个-b 就是创建并切换
+    
+![](4.jpg)
+
+在这种情况下，切换回master，再
+
+    git merge dev#相当于就把master切到了dev，更新了
+    
+这样之后，就可以删除dev了
+
+    bit branch -d dev
+    
+反正我大概懂了，就是不确定你接下来的修改能不能直接用
+所以创了个副本，如果有用就回去然后merge进来，没用就算了
+
+小结一下吧
+
+![](5.jpg)
+    
+## 解决冲突
+
+简单来说，分支发生冲突时需要手动解决，我感觉挺复杂的，不大想实操
+不过浅浅试一下吧还是
